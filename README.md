@@ -17,3 +17,7 @@ Postman hiện là một trong những công cụ phổ biến nhất được s
 Như ta đã biết, API chịu trách nhiệm kết nối các ứng dụng với nhau, có Postman sẽ giúp cho thao tác với API này trở nên dễ dàng hơn. Thông thường, Postman sẽ được dùng cho API kiểu REST. Với Postman, ta có thể gọi Rest API mà không cần viết dòng code nào.
 
 Postman hỗ trợ tất cả các phương thức HTTP (GET, POST, PUT, PATCH, DELETE, …). Bên cạnh đó, nó còn cho phép lưu lại lịch sử các lần request, rất tiện cho việc sử dụng lại khi cần.
+
+## 2. GET 
+![image](https://github.com/user-attachments/assets/c50235fb-aa47-48e3-8761-cae5043a0f7f)
+
