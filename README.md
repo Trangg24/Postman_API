@@ -21,4 +21,4 @@ Postman hỗ trợ tất cả các phương thức HTTP (GET, POST, PUT, PATCH, 
 ## 2. GET - Lấy danh sách bài viết
 ![image](https://github.com/user-attachments/assets/c50235fb-aa47-48e3-8761-cae5043a0f7f)
 
-## 3. 
+
