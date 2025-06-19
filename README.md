@@ -18,6 +18,7 @@ Như ta đã biết, API chịu trách nhiệm kết nối các ứng dụng v�
 
 Postman hỗ trợ tất cả các phương thức HTTP (GET, POST, PUT, PATCH, DELETE, …). Bên cạnh đó, nó còn cho phép lưu lại lịch sử các lần request, rất tiện cho việc sử dụng lại khi cần.
 
-## 2. GET 
+## 2. GET - Lấy danh sách bài viết
 ![image](https://github.com/user-attachments/assets/c50235fb-aa47-48e3-8761-cae5043a0f7f)
 
+## 3. 
